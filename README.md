@@ -16,6 +16,6 @@ As a job seeker, the lack of data highlighting the most optimal jobs and skills 
 
 <img width="479" height="331" alt="Screenshot 2025-09-23 083505" src="https://github.com/user-attachments/assets/ddab4fc1-7692-4be2-8d9a-fc10ef48416f" />
 
-[Check out my work here](1_Project_Analysis)
+[Check out my work here](Project_2_Analysis)
 
 
