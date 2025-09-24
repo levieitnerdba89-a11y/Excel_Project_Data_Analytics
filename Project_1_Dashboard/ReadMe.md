@@ -22,7 +22,7 @@ My final dashboard is in [1_Salary_Dashboard.xlsx](https://github.com/levieitner
 
 The dataset used for this project contains real-world data science job information from 2023. The dataset is available through my Excel course, which provides the aformentioned foundation for analyzing data using Excel. It includes detailed information on:
 
-- 🤹 Job title
+- 🤹 Job Titles
 - 💰 Salaries
 - 📍 Locations
 - 📈 Skills
