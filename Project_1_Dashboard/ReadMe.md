@@ -8,10 +8,6 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
-## Dashboard File
-
-My final dashboard is in [1_Salary_Dashboard.xlsx](https://github.com/levieitnerdba89-a11y/Excel_Project_Data_Analytics/tree/main/Project_1_Dashboard)
-
 ## Excel Skills Utilized
 
 - 📊 Charts
