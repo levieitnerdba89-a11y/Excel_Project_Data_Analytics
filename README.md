@@ -2,7 +2,7 @@
 My project demonstrating my Excel skills
 
 ## Salary Dashboard
-This data jobs salary dashborad was created to help job seeker investigate salaries for their desired jobs and ensure they are being adequately compensated.
+This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
 
 <img width="1127" height="526" alt="Screenshot 2025-09-23 081227" src="https://github.com/user-attachments/assets/0121b735-d739-472a-ba4d-8a7a6e5ec78d" />
 
