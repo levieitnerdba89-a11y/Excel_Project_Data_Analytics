@@ -1,5 +1,5 @@
 # Excel_Project_Data_Analytics
-My project demonstrating my Excel skills
+My project demonstrating my Excel skills through analyzing varying metrics of the data job market in 2023 and comparing job titles, salaries, skills, and locations to determine what jobs, skills, and location deliver the most compensation and are the most in demand.
 
 ## Salary Dashboard
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
